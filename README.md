@@ -11,7 +11,7 @@
 
 ---
 
-## 3. How It Works
+## 2. How It Works
 *   🔄 **Search:** Submitting a city name starts the weather lookup.
 *   🌐 **Fetch:** The app requests live data from the OpenWeather API in the background.
 *   📖 **Black Magic:** The "Clima" class takes that raw data and organizes it into a clean package.
