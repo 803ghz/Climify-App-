@@ -8,3 +8,11 @@
 * 🎯 **Core Purpose:** A simple, responsive web dashboard built to fetch and display real-time global weather data.
 * 💻 **Tech Stack:** Engineered cleanly using HTML5, CSS3, and modern JavaScript.
 * 🎓 **Key Focus:** Highlights real-world practice with modern coding methods, pulling live information from the web automatically, and filtering data on the spot.
+
+---
+
+## 3. How It Works
+*   🔄 **Search:** Submitting a city name starts the weather lookup.
+*   🌐 **Fetch:** The app requests live data from the OpenWeather API in the background.
+*   📖 **Black Magic:** The "Clima" class takes that raw data and organizes it into a clean package.
+*   🎨 **Render:** The UI updates instantly with the new weather info without reloading.
