@@ -8,8 +8,8 @@
 
 # Objetivos para el día 21/05
 
-- [ ] Solucionar problemas con ubicaciones duplicadas al introducir nombres.
+- [x] Solucionar problemas con ubicaciones duplicadas al introducir nombres.
 
-- [ ] Poner iconos y fondos de pantalla dinamicos basado en el clima.
+- [x] Poner iconos y fondos de pantalla dinamicos basado en el clima.
 
-- [ ] Arreglar y revisar bugs menores en CSS y JS.
+- [x] Arreglar y revisar bugs menores en CSS y JS.
