@@ -1,15 +1,15 @@
 # Objetivos para el día 20/05
 
-- Guardar el Modo Día/Noche para que no se borre al recargar (localStorage)
+- [x] Guardar el Modo Día/Noche para que no se borre al recargar (localStorage)
 
-- Recordar la última ciudad buscada al abrir la página (localStorage)
+- [x] Recordar la última ciudad buscada al abrir la página (localStorage)
 
-- Pulir todo el codigo y arreglar bugs. (HTML, CSS Y JS)
+- [x] Pulir todo el codigo y arreglar bugs. (HTML, CSS Y JS)
 
 # Objetivos para el día 21/05
 
-- Solucionar problemas con ubicaciones duplicadas al introducir nombres.
+- [ ] Solucionar problemas con ubicaciones duplicadas al introducir nombres.
 
-- Poner iconos y fondos de pantalla dinamicos basado en el clima.
+- [ ] Poner iconos y fondos de pantalla dinamicos basado en el clima.
 
-- Arreglar y revisar bugs menores en CSS y JS.
+- [ ] Arreglar y revisar bugs menores en CSS y JS.
