@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+  <head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image" href="assets/favicon.png">
+
+    <title>Climify - Simple Weather Viewer</title>
+    
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <body>
+
+    <div class="app-container">
+
+      <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar modo">🌙</button>
+
+      <h1>Climify</h1>
+      
+      <form id="search-form" class="search-form">
+
+        <input type="text" id="search-input" placeholder="Busca una ciudad (ej: Madrid, Tokyo)..." required>
+
+        <button type="submit">Buscar</button>
+
+      </form>
+
+      <div id="weather-container"></div>
+    
+    <script src="app.js"></script>
+
+  </body>
+
+    <footer class="copyright-footer">
+
+      <p>CLIMIFY APP v0.0.3</p>
+
+      <p>2026 © Sergio Diaz</p>
+      
+    </footer>
+
+</html>
