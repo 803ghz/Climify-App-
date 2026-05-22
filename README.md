@@ -1,3 +1,5 @@
+<img width="1979" height="795" alt="climify_logo" src="https://github.com/user-attachments/assets/2deb01d0-993a-45da-9436-20affcd45b35" />
+
 # 🌤️ Climify App - A simple and free weather viewer.
 
 **Climify** is a clean and lightweight web application designed to check real-time weather conditions based in your city and worldwide using the OpenWeatherMap API.
